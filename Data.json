@@ -1,0 +1,35 @@
+{
+     "Heading": [
+          "Available Products",
+          "Product Table",
+          "Watch This Video",
+          "Contact Us",
+          "Product Information",
+          "Featured Products"
+     ],
+     "Paragraphs": [
+          "Welcome to the web scraping task! Use your skills to extract the required data from this page.",
+          "Sharp Objects",
+          "\u00a347.82",
+          "\u2714 In stock",
+          "In a Dark, Dark Wood",
+          "\u00a319.63",
+          "\u2714 In stock",
+          "The Past Never Ends",
+          "\u00a356.50",
+          "\u2714 In stock",
+          "A Murder in Time",
+          "\u00a316.64",
+          " Out stock",
+          "Wireless Headphones",
+          "$49.99",
+          "Available colors: Black, White, Blue",
+          "Smart Speaker",
+          "$89.99",
+          "Available colors: Grey, Black",
+          "Smart Watch",
+          "$149.99",
+          "Available colors: Black, Silver, Gold",
+          "\u00a9 2024 Web Scraping Practice. All Rights Reserved."
+     ]
+}

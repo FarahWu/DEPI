@@ -1,0 +1,23 @@
+{
+     "H1 Headings": [],
+     "H2 Headings": [],
+     "Paragraphs": [],
+     "List Items": [],
+     "Table Data": [
+          {
+               "Product Name": "Laptop",
+               "Price": "$1000",
+               "Stock Status": "Yes"
+          },
+          {
+               "Product Name": "Smartphone",
+               "Price": "$800",
+               "Stock Status": "No"
+          },
+          {
+               "Product Name": "Tablet",
+               "Price": "$500",
+               "Stock Status": "Yes"
+          }
+     ]
+}

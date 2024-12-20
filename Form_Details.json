@@ -1,0 +1,28 @@
+[
+    {
+        "Form Action": "No action",
+        "Form Method": "GET",
+        "Fields": [
+            {
+                "Field Name": "username",
+                "Input Type": "text",
+                "Default Value": "No default value"
+            },
+            {
+                "Field Name": "password",
+                "Input Type": "password",
+                "Default Value": "No default value"
+            },
+            {
+                "Field Name": "terms",
+                "Input Type": "checkbox",
+                "Default Value": "No default value"
+            },
+            {
+                "Field Name": "No name",
+                "Input Type": "submit",
+                "Default Value": "Submit"
+            }
+        ]
+    }
+]
